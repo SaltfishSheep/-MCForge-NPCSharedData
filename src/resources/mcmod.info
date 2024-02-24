@@ -1,0 +1,16 @@
+[
+{
+  "modid": "npcshareddata",
+  "name": "NPCSharedData",
+  "description": "A mod use for share CNPD's data among players.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Saltfish_Sheep"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
